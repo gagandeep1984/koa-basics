@@ -1,0 +1,2 @@
+Notes : 
+    - https://dev.to/kachiic/koa-js-part-2-connect-a-sql-database-to-your-server-4mhl
